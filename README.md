@@ -40,7 +40,8 @@ La aplicación de tecnologías emergentes y el uso intensivo de información geo
 Como desarrollo de realidad virtual que es, el proyecto asume la línea de actuación 2.3 “Trabajar a través de la realidad aumentada y la realidad virtual” del objetivo 2 “ Desarrollar centros de FP 4.0 de alto rendimiento” del ámbito estratégico 2 “Innovación Tecnológica y Sistemas Inteligentes” del citado Plan Vasco de FP.La inusual colaboración entre centros con especialidades prejuzgadas diametralmente diferentes, añade a este proyecto todo el alcance de la línea de actuación 4.3 “Impulsar la colaboración entre los centros, como medio para desarrollar soluciones complejas que requieren la intervención de diferentes ámbitos de conocimiento” del ya mencionado objetivo 4 del ámbito estratégico de innovación tecnológica y Sistemas Inteligentes.
 
 
-**En resumen,Ámbito estratégico 2 “Innovación Tecnológica y Sistemas Inteligentes”**
+**En resumen,
+Ámbito estratégico 2 “Innovación Tecnológica y Sistemas Inteligentes”**
 
 - Objetivo 1: “Investigar e innovar en entornos industriales 4.0 transfiriendo el conocimiento adquirido a la cadena de valor de la FP vasca” 
 o 1.1 “Promover e implantar el uso de tecnologías avanzadas en los centros de FP, dirigidas a mejorar las competencias del profesorado y el alumnado en entornos complejos” 
@@ -61,3 +62,8 @@ o 4.3 “Impulsar la colaboración entre los centros, como medio para desarrolla
 - Objetivo 1 “Desarrollar investigación científica e innovación aplicada a la formación profesional en Agroalimentación Sostenible, Medio Natural y Marino” 
 o 1.1 “Establecer entornos estratégicos y áreas de especialización en materia de Bioeconomía y sectores asociados, mejorando la eficiencia y sostenibilidad de sectores basados en el uso de recursos de origen biológico” 
 o 1.3 “Desarrollar proyectos para aumentar la creación de empresas y ampliación de mercados relacionados con la Bioeconomía”
+
+**Software a usar**
+
+Partiremos de la versión Unity 2019.4 LTS como entorno de desarrollo
+
