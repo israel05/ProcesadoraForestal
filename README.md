@@ -11,6 +11,7 @@ Como alternativa al uso de procesadoras reales, los fabricantes de maquinaria fo
 Para reconducir la situación anterior, el presente proyecto pretende servir de marco para el desarrollo de un simulador de procesadora forestal genérica, de código abierto, escalable, adaptable a cualquier marca y utilizable por cualquier centro que imparta formación forestal, asociación forestal o pyme con necesidades formativas en esta materia.
 
 Por otra parte, el desarrollo de entornos virtuales para el entrenamiento en trabajos cuyas variables de entorno pueden ser modelizadas se ha convertido en un nicho laboral importante. La incorporación, gestión y uso de bases de datos masivos obtenidos sobre grandes superficies de terreno y su aplicación a la modelización del medio natural puede suponer un avance innovador en el desarrollo de estos entornos virtuales, abriendo una línea de especialización novedosa en este sector.De la vigilancia del entorno y captación sistemática de señales, se han obtenido evidencias de la demanda de formación de profesionales mediante la utilización de este tipo de simuladores, como puede comprobarse en los siguientes enlaces:
+
 https://ence.es/ence-promueve-un-nuevo-curso-de-maquinistas-forestales/
 https://formacionforestal-es.webnode.es/https://www.ademan.org/simulador-procesadora-forestal/
 http://www.etechsimulation.com/index.php/industrias/simuladores-forestales
@@ -24,7 +25,8 @@ https://galicia.economiadigital.es/innovacion/mas-madera/los-aserraderos-gallego
 En el informe 2019 de prospección y detección de necesidades formativas del Observatorio de las Ocupaciones del Ministerio de trabajo, Migraciones y Seguridad Social, en la página 68, aparece como necesidad formativa detectada el conocimiento y manejo de procesadoras forestales, y en su página 470:
 
 
-https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiOiJflvojqAhV_QUEAHeTcBms4HhAWMAJ6BAgBEAE&url=http%3A%2F%2Fwww.sepe.es%2FSiteSepe%2Fcontenidos%2Fque_es_el_sepe%2Fpublicaciones%2Fpdf%2Fpdf_mercado_trabajo%2F2019%2FInforme-prospeccion-deteccion-necesidades-formativas-2019.pdf&usg=AOvVaw2-oIE_E0k_SSJRKTtoj8Jw El proyecto se plantea con una estricta vocación cooperativa y fundamenta su justificación en la difusión, transferencia y escalabilidad de sus resultados. Está previsto que la herramienta final pueda ser usada por las profesoras, profesores, alumnas y alumnos de todos los centros que imparten ciclos formativos forestales en Euskadi y el resto del Estado, 40 centros en total con unas 1.000 alumnas y alumnos y 100 profesoras y profesores. El código abierto garantiza la posibilidad de escalado y ajuste a las necesidades concretas de cada entorno de utilización.
+https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiOiJflvojqAhV_QUEAHeTcBms4HhAWMAJ6BAgBEAE&url=http%3A%2F%2Fwww.sepe.es%2FSiteSepe%2Fcontenidos%2Fque_es_el_sepe%2Fpublicaciones%2Fpdf%2Fpdf_mercado_trabajo%2F2019%2FInforme-prospeccion-deteccion-necesidades-formativas-2019.pdf&usg=AOvVaw2-oIE_E0k_SSJRKTtoj8Jw 
+El proyecto se plantea con una estricta vocación cooperativa y fundamenta su justificación en la difusión, transferencia y escalabilidad de sus resultados. Está previsto que la herramienta final pueda ser usada por las profesoras, profesores, alumnas y alumnos de todos los centros que imparten ciclos formativos forestales en Euskadi y el resto del Estado, 40 centros en total con unas 1.000 alumnas y alumnos y 100 profesoras y profesores. El código abierto garantiza la posibilidad de escalado y ajuste a las necesidades concretas de cada entorno de utilización.
 
 
 **Adecuación al V Plan Vasco de Formación Profesional**
@@ -39,22 +41,23 @@ Como desarrollo de realidad virtual que es, el proyecto asume la línea de actua
 
 
 **En resumen,Ámbito estratégico 2 “Innovación Tecnológica y Sistemas Inteligentes”**
+
 - Objetivo 1: “Investigar e innovar en entornos industriales 4.0 transfiriendo el conocimiento adquirido a la cadena de valor de la FP vasca” 
 o 1.1 “Promover e implantar el uso de tecnologías avanzadas en los centros de FP, dirigidas a mejorar las competencias del profesorado y el alumnado en entornos complejos” 
 o 1.2 “Desarrollar proyectos de innovación en los centros que den cobertura a los procesos productivos actuales y de futuro y que permitan el desarrollo de capacidades necesarias en los mismos”.- 
 
-Objetivo 2 “Desarrollar centros de FP 4.0 de alto rendimiento” 
+- Objetivo 2 “Desarrollar centros de FP 4.0 de alto rendimiento” 
 o 2.3 “Trabajar a través de la realidad aumentada y la realidad virtual” del- 
 
-Objetivo 3 “Transferencia del conocimiento en la FP” 
+- Objetivo 3 “Transferencia del conocimiento en la FP” 
 o 3.1 “Poner al servicio de las empresas, especialmente de las PYMEs, las capacidades de los centros a través de los entornos estratégicos” 
 o 3.2 “asegurar la incorporación de las capacidades y conocimientos adquiridos en los diferentes servicios de los centros a la información que imparten los mismos”- 
 
-Objetivo 4 “Generar desde la FP una respuesta sistémica a las necesidades tecnológicas” 
+- Objetivo 4 “Generar desde la FP una respuesta sistémica a las necesidades tecnológicas” 
 o 4.1 “Garantizar la transferencia de los conocimientos generados en las diferentes iniciativas hacia la red de centros de FP” 
 o 4.2 “Promover la especialización de los centros de manera que se ofrezca una amplia cobertura acorde con las necesidades del entorno productivo” 
 o 4.3 “Impulsar la colaboración entre los centros, como medio para desarrollar soluciones complejas que requieren la intervención de diferentes ámbitos de conocimiento”Ámbito estratégico 4 “Biociencia y Desarrollo sostenible”-
 
-Objetivo 1 “Desarrollar investigación científica e innovación aplicada a la formación profesional en Agroalimentación Sostenible, Medio Natural y Marino” 
+- Objetivo 1 “Desarrollar investigación científica e innovación aplicada a la formación profesional en Agroalimentación Sostenible, Medio Natural y Marino” 
 o 1.1 “Establecer entornos estratégicos y áreas de especialización en materia de Bioeconomía y sectores asociados, mejorando la eficiencia y sostenibilidad de sectores basados en el uso de recursos de origen biológico” 
 o 1.3 “Desarrollar proyectos para aumentar la creación de empresas y ampliación de mercados relacionados con la Bioeconomía”
