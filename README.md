@@ -1,4 +1,4 @@
-# ProcesadoraForestal
+# Procesadora Forestal
 Repositorio del proyecto
 
 **IES MURGIA BHI  y  CIFP CIUDAD JARDÍN LHII**
