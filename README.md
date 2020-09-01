@@ -66,4 +66,5 @@ o 1.3 “Desarrollar proyectos para aumentar la creación de empresas y ampliaci
 **Software a usar**
 
 Partiremos de la versión Unity 2019.4 LTS como entorno de desarrollo
-
+Microsoft Visual Studio 2019 para los scripts 
+Autodesk fusion 360 con proyectos compartidos para los modelos 3D
