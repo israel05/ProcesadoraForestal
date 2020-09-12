@@ -645,6 +645,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -658,10 +659,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: d7d34f9d-a61e-4b00-bdb1-0d4bcbb44863
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: ProcesadoraBase
+  organizationId: israel-de-lamo
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
